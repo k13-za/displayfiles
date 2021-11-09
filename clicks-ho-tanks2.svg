@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1587.4016"
+   height="1122.5197"
+   viewBox="0 0 420.00001 296.99999"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)"
+   sodipodi:docname="clicks-ho-tanks2.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1055803"
+     inkscape:cx="1026.6102"
+     inkscape:cy="560.81355"
+     inkscape:document-units="mm"
+     inkscape:current-layer="switch7260"
+     showgrid="false"
+     inkscape:window-width="2400"
+     inkscape:window-height="1421"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-4.8319498e-6)">
+    <rect
+       id="rect7210"
+       pointer-events="all"
+       stroke="rgba(0, 0, 0, 1)"
+       height="69.152344"
+       width="57.099487"
+       y="88.316757"
+       x="88.362816"
+       style="fill:#969696;stroke-width:0.45349127" />
+    <ellipse
+       id="ellipse7212"
+       pointer-events="none"
+       stroke="rgba(0, 0, 0, 1)"
+       ry="4.3220215"
+       rx="28.549744"
+       cy="157.4691"
+       cx="116.91256"
+       style="fill:#969696;stroke-width:0.45349127" />
+    <ellipse
+       id="ellipse7214"
+       pointer-events="none"
+       stroke="rgba(0, 0, 0, 1)"
+       ry="6.4830322"
+       rx="28.549744"
+       cy="88.316757"
+       cx="116.91256"
+       style="fill:#969696;stroke-width:0.45349127" />
+    <rect
+       id="rect7216"
+       pointer-events="none"
+       transform="scale(-1)"
+       stroke="rgba(0, 0, 0, 1)"
+       height="64.830322"
+       width="14.274872"
+       y="-161.79112"
+       x="-124.05"
+       style="fill:#e6e6e6;stroke-width:0.45349127"
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:2,&quot;min&quot;:0,&quot;tag&quot;:&quot;level-mains&quot;}" />
+    <g
+       id="g7222"
+       transform="matrix(0.47582905,0,0,0.43220214,88.124899,79.456616)">
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#ffffff"
+         x="60"
+         y="22"
+         font-size="12px"
+         id="text7218"
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;level-mains&quot;,&quot;type&quot;:&quot;Good&quot;}">%6.2f M</text>
+    </g>
+    <rect
+       id="rect7230"
+       pointer-events="none"
+       stroke="rgba(0, 0, 0, 1)"
+       height="69.152344"
+       width="57.099487"
+       y="88.316757"
+       x="183.52863"
+       style="fill:#969696;stroke-width:0.45349127" />
+    <ellipse
+       id="ellipse7232"
+       pointer-events="none"
+       stroke="rgba(0, 0, 0, 1)"
+       ry="4.3220215"
+       rx="28.549744"
+       cy="157.4691"
+       cx="212.07837"
+       style="fill:#969696;stroke-width:0.45349127" />
+    <ellipse
+       id="ellipse7234"
+       pointer-events="none"
+       stroke="rgba(0, 0, 0, 1)"
+       ry="6.4830322"
+       rx="28.549744"
+       cy="88.316757"
+       cx="212.07837"
+       style="fill:#969696;stroke-width:0.45349127" />
+    <rect
+       id="rect7236"
+       pointer-events="none"
+       stroke="rgba(0, 0, 0, 1)"
+       height="64.830322"
+       width="14.274872"
+       y="96.9608"
+       x="204.94093"
+       style="fill:#e6e6e6;stroke-width:0.45349127"
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:2,&quot;min&quot;:0,&quot;tag&quot;:&quot;level-platroom&quot;}" />
+    <g
+       id="g7242"
+       transform="matrix(0.47582905,0,0,0.43220214,88.124899,79.456616)">
+      <switch
+         id="switch7240">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="100%"
+           width="100%"
+           pointer-events="none">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 18px; margin-left: 231px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: #FFFFFF; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal;">mmm M</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           id="text7238"
+           font-size="12px"
+           y="22"
+           x="260"
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#ffffff"
+           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;level-platroom&quot;,&quot;type&quot;:&quot;Good&quot;}">%6.2f M</text>
+      </switch>
+    </g>
+    <rect
+       id="rect7250"
+       pointer-events="none"
+       stroke="rgba(0, 0, 0, 1)"
+       height="69.152344"
+       width="57.099487"
+       y="88.316757"
+       x="278.69443"
+       style="fill:#969696;stroke-width:0.45349127" />
+    <ellipse
+       id="ellipse7252"
+       pointer-events="none"
+       stroke="rgba(0, 0, 0, 1)"
+       ry="4.3220215"
+       rx="28.549744"
+       cy="157.4691"
+       cx="307.24417"
+       style="fill:#969696;stroke-width:0.45349127" />
+    <ellipse
+       id="ellipse7254"
+       pointer-events="none"
+       stroke="rgba(0, 0, 0, 1)"
+       ry="6.4830322"
+       rx="28.549744"
+       cy="88.316757"
+       cx="307.24417"
+       style="fill:#969696;stroke-width:0.45349127" />
+    <rect
+       id="rect7256"
+       pointer-events="none"
+       stroke="rgba(0, 0, 0, 1)"
+       height="64.830322"
+       width="14.274872"
+       y="96.9608"
+       x="300.10675"
+       style="fill:#e6e6e6;stroke-width:0.45349127"
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:2,&quot;min&quot;:0,&quot;tag&quot;:&quot;level-toiletfeed&quot;}" />
+    <switch
+       id="switch7260"
+       transform="matrix(0.47582905,0,0,0.43220214,88.124899,79.456616)">
+      <foreignObject
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 18px; margin-left: 431px;">
+          <xhtml:div
+             data-drawio-colors="color: #FFFFFF; "
+             style="box-sizing: border-box; font-size: 0px; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal;">mmm M</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#ffffff"
+         x="460"
+         y="22"
+         font-size="12px"
+         id="text7258"
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;level-toiletfeed&quot;,&quot;type&quot;:&quot;Good&quot;}">%6.2f M</text>
+    </switch>
+  </g>
+</svg>
